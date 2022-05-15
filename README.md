@@ -1,3 +1,7 @@
 # MNIST
 Exploration using the MNIST dataset
-The goal was to use my knowledge of PCA to compress images/text and to identify how different degrees of compression can impact reconstruction
+
+There were 2 goals for this dataset
+
+1.  To use PCA to compress images/text and to identify how different degrees of compression can impact reconstruction
+2.  To train a CNN model to identify the characters
